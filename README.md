@@ -1,12 +1,12 @@
 # Hi, I'm Mohammed Shanif
 
-### 💻 MERN Stack Developer | Full Stack Enthusiast | Passionate about Scalable Web Apps
+###  MERN Stack Developer | Full Stack Enthusiast | Passionate about Scalable Web Apps
 
 I'm a dedicated MERN Stack Developer with experience building production-ready, full-stack web applications using React.js, Node.js, MongoDB, and Express.js. I focus on delivering secure, scalable, and real-time web experiences, and I'm always eager to learn and grow.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - React.js, JavaScript, HTML5, CSS3
@@ -30,7 +30,7 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 
 ## 💼 Projects
 
-### 🏡 **Estate** – Real Estate Web App (MERN + RTK Query + Stripe)
+###  **Estate** – Real Estate Web App (MERN + RTK Query + Stripe)
 > A scalable real estate application with real-time features, secure payments, and admin/user role-based access.
 
 - Full MERN Stack with Tailwind CSS for UI and RTK Query for state management.
@@ -44,7 +44,7 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 
 ---
 
-### 🎫 **Ticketa** – Event Ticket Booking Platform
+###  **Ticketa** – Event Ticket Booking Platform
 > A secure and responsive platform for booking events with real-time filtering, admin control, and online payments.
 
 - Frontend: React.js, Tailwind, Context API.
@@ -59,7 +59,7 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 
 ---
 
-### 🪑 **ZENT** – E-commerce Furniture App
+###  **ZENT** – E-commerce Furniture App
 > A fully functional furniture e-commerce app with authentication, cart, payments, and real-time admin dashboard.
 
 - React.js + Tailwind CSS frontend with advanced filtering and wishlist.
@@ -72,7 +72,7 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 - 📧 Email: your.email@example.com  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
