@@ -59,8 +59,7 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 - Payments: Stripe gateway for subscriptions.
 - Admin Panel: Manage users, properties, agents, bookings, and messages.
 
-🔗 **GitHub:** [Estate Repo](https://github.com/your-username/estate)  
-🔴 **Live:** [estate-live-url.com](https://estate-live-url.com)
+🔗 **GitHub:** [Estate Repo](https://github.com/eestate/eestate/tree/dev)  
 
 ---
 
@@ -74,8 +73,7 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 - Payments: Razorpay integration + QR code ticket confirmation.
 - Real-Time: Notifications using Socket.IO.
 
-🔗 **GitHub:** [Ticketa Repo](https://github.com/your-username/ticketa)  
-🔴 **Live:** [ticketa-live-url.com](https://ticketa-live-url.com)
+🔗 **GitHub:** [Ticketa Repo](https://github.com/shhanifff/ticketa-Event-Mangment)  
 
 ---
 
@@ -87,15 +85,15 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 - Admin Dashboard: Real-time inventory, orders, and status tracking.
 - Payment: Razorpay integration and full order lifecycle support.
 
-🔗 **GitHub:** [ZENT Repo](https://github.com/your-username/zent)  
-🔴 **Live:** [zent-live-url.com](https://zent-live-url.com)
+🔗 **GitHub:** [ZENT Repo](https://github.com/shhanifff/ZENT-server)  
+🔴 **Live:** [zent-live-url.com](https://zent-client.vercel.app/)
 
 ---
 
 ##  Contact Me
 
 - 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mohammed-shanif-cc/)  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
