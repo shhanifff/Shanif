@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Shanif
+# Hi, I'm Mohammed Shanif
 
 ### 💻 MERN Stack Developer | Full Stack Enthusiast | Passionate about Scalable Web Apps
 
