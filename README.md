@@ -35,13 +35,13 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 ###  Auth & Payments
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/razorpay.png" alt="Razorpay" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Razorpay_logo.png" alt="Razorpay" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/google-logo.png" alt="Google OAuth" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" alt="JWT Auth" width="40" height="40"/>
 </p>
