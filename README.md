@@ -8,25 +8,31 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 
 ##  Tech Stack
 
-**Frontend:**
-- React.js, JavaScript, HTML5, CSS3
-- Tailwind CSS, Context API, Redux Toolkit (RTK), RTK Query
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
 
-**Backend:**
-- Node.js, Express.js
-- REST API, Middleware, Role-based Access Control
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 
-**Database:**
-- MongoDB, Mongoose
-- PostgreSQL (Basics)
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/google-logo.png" alt="Google Auth" width="40" height="40"/>
+</p>
 
-**Dev Tools:**
-- Git, GitHub, Postman, Docker (Basics)
-- JWT, Google OAuth, OTP Verification
-- Stripe, Razorpay Integration
-- Socket.IO, Nodemailer
-
----
 
 ## 💼 Projects
 
