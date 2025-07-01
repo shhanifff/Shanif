@@ -92,8 +92,8 @@ I'm a dedicated MERN Stack Developer with experience building production-ready, 
 
 ##  Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mohammed-shanif-cc/)  
+- 📧 Email: mohammedshanif@gmail.com.com  
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/mohammed-shanif-cc/)  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
